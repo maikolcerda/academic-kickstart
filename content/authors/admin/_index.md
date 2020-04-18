@@ -14,7 +14,7 @@ role: Ph.D. in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Yale University
+- name: Yale University / New York University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
