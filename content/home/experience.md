@@ -21,32 +21,32 @@ date_format = "Jan 2006"
   title = "Postdoc Researcher"
   company = "Yale University"
   company_url = ""
-  location = "New Haven"
-  date_start = "2019-09"
+  location = "New Haven, CT"
+  date_start = "2019-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
   * Research
   * Modelling
+
   """
 
 [[experience]]
   title = "Instructor"
   company = "Universidad de Chile"
   company_url = ""
-  location = "Chile"
-  date_start = "2010-03"
-  date_end = "2012-12"
-  description = """Industrial Organization, Undergraduate."""
+  location = "Santiago, Chile"
+  date_start = "2010-06-01"
+  date_end = "2012-12-01"
+  description = """Industrial Organization, Undergraduate Level."""
 
 [[experience]]
   title = "Economist"
-  company = "Antritust Agency"
+  company = "Antitrust Agency"
   company_url = ""
-  location = "Chile"
-  date_start = "2010-08"
-  date_end = "2013-07"
-  description = """"""
-
+  location = "Santiago, Chile"
+  date_start = "2010-08-01"
+  date_end = "2013-06-01"
+  description = """Department of Collusion"""
 +++
