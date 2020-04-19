@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. in Economics
+role: Postdoc Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Yale University / New York University
+- name: Yale University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Industrial Organization, Statistical Learning, Competition Policy.
+bio: My research interests include industrial organization, statistical learning, competition policy.
 
 interests:
 - Industrial Organization
-- Statistical Learning, Deep Learning
+- Statistical Learning, Econometrics
 - Competition Policy
 - Triathlon
 
@@ -37,7 +37,7 @@ education:
   - course: M.Sc. in Economics
     institution: Universidad de Chile
     year: 2010
-  - course: B.Sc. in Economics
+  - course: B.Sc. in Business and Economics
     institution: Universidad de Chile
     year: 2009
 
@@ -49,12 +49,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'maikol.cerdaz@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: github
+  icon_pack: fab
+  link: https://github.com/maikolcerda/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/maikol-cerda-86a391175/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/maikolcerda
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -73,8 +74,6 @@ user_groups:
 
 I am currently a Postdoc Fellow at Yale University with an interest in contributing to a deeper understanding of individuals and firms decision-making, the diffusion of platforms, and data science.
 
-I received my Ph.D. in Economics from the New York University. My research interests are in Industrial Organization, Competition Policy, Data Science, and Applied Microeconomics.
+I received my Ph.D. in Economics from New York University in September 2019. My research interests are in Industrial Organization, Competition Policy, Statistical and Reinforcement Learning, and Applied Microeconomics.
 
 I employ theory, numerical methods, and econometrics to better understand the inter-relationships among consumers and firms under imperfect environments and their decision process under imperfect information. Although all my current projects are theoretically founded, they study real cases.
-
-You can find my CV
