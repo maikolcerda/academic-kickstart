@@ -7,7 +7,9 @@
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
+  HUGO_VERSION = "0.69.0"
   HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
@@ -24,3 +26,20 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+
+[context.split1]
+command = "hugo --gc --minify --enableGitInfo"
+
+[context.split1.environment]
+  HUGO_VERSION = "0.69.0"
+  HUGO_ENV = "production"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.69.0"
+
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.69.0"
+
+[context.next.environment]
+  HUGO_ENABLEGITINFO = "true"
